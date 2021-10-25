@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Chiquim da Silva 3",
+      "email": "chiquim@email.com",
+      "phone": "(85) 9 9999-1234",
+      "password": "12345678",
+      "created_at": "2021-09-25 19:45:12",
+      "last_login": null
+    },
+    {
+      "nome": "teste",
+      "email": "teste@teste.com",
+      "fone": "1234",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "opa",
+      "email": "opa@opa.com",
+      "phone": "1234",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "jkh",
+      "email": "kjh",
+      "phone": "kjh",
+      "password": "kjh",
+      "id": 6
+    },
+    {
+      "name": "jhk",
+      "email": "kjhlk",
+      "phone": "lkjh",
+      "password": "lkjh",
+      "id": 7
+    },
+    {
+      "email": "zzzzzz@email.com",
+      "password": "$2a$10$VQ.105lQBnAiQAtwRVeaceJmjN/zjBYlY4EaAHkMO1YsNjk8MGAyu",
+      "id": 8
+    },
+    {
+      "email": "aaaaaa@email.com",
+      "password": "$2a$10$yhm570MtA/UMtJ.z6zQ1Yu09.DQiUA1xLgfvLGEKR27cKnOtzst9u",
+      "id": 9
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "plate": "XXX-0800",
+      "make": "Chevrolet",
+      "model": "Celta"
+    },
+    {
+      "id": 2,
+      "plate": "XXA-0800",
+      "make": "Chevrolet",
+      "model": "Classic"
+    },
+    {
+      "id": 3,
+      "plate": "XXB-0800",
+      "make": "Chevrolet",
+      "model": "Kadett"
+    },
+    {
+      "plate": "PNo7745",
+      "make": "Chevrolet",
+      "model": "Celta",
+      "id": 4
+    },
+    {
+      "plate": "ORT5515",
+      "make": "Chevrolet",
+      "model": "Classic",
+      "id": 5
+    },
+    {
+      "plate": "pow 5455",
+      "make": "chevrolet",
+      "model": "chevette",
+      "id": 6
+    },
+    {
+      "plate": "BBB1212",
+      "make": "Ford",
+      "model": "Fiesta",
+      "id": 7
+    },
+    {
+      "plate": "BBB3333",
+      "make": "Ford",
+      "model": "Ka",
+      "id": 8
+    },
+    {
+      "plate": "HCX 2813",
+      "make": "Renault",
+      "model": "Oroch",
+      "id": 9
+    },
+    {
+      "plate": "HCX 2813",
+      "make": "Renault",
+      "model": "Oroch",
+      "id": 10
+    }
+  ],
+  "zones": [
+    {
+      "id": 1,
+      "head_office": "Fortaleza",
+      "number": 33,
+      "judge": "Chiquim da Silva",
+      "clerk": "Zezim das Rapaduras",
+      "phone": "85 9 9999-9999",
+      "email": "zona-33@tre.ce.gov.br"
+    },
+    {
+      "id": 2,
+      "head_office": "Fortaleza",
+      "number": 45,
+      "judge": "Chiquim da Silva 2",
+      "clerk": "Zezim das Rapaduras 2",
+      "phone": "85 9 9999-9999",
+      "email": "zona-33@tre.ce.gov.br"
+    },
+    {
+      "id": 3,
+      "head_office": "Fortaleza",
+      "number": 49,
+      "judge": "Chiquim da Silva 3",
+      "clerk": "Zezim das Rapaduras 3",
+      "phone": "85 9 9999-9999",
+      "email": "zona-33@tre.ce.gov.br"
+    },
+    {
+      "head_office": "sede1",
+      "number": "1",
+      "judge": "juiz1",
+      "clerk": "cc1",
+      "phone": "8590000000",
+      "email": "sede1@tre.com",
+      "id": 4
+    },
+    {
+      "head_office": "s1",
+      "number": "1",
+      "judge": "j1",
+      "clerk": "c1",
+      "phone": "8590000000",
+      "email": "z1@tre.com",
+      "id": 5
+    },
+    {
+      "head_office": "jhg",
+      "number": "kjhk",
+      "judge": "jhkj",
+      "clerk": "hkjh",
+      "phone": "kjhk",
+      "email": "jjkh",
+      "id": 6
+    },
+    {
+      "head_office": "kllkj",
+      "number": "lkj",
+      "judge": "klj",
+      "clerk": "kj",
+      "phone": "k",
+      "email": "jkl",
+      "id": 7
+    },
+    {
+      "head_office": "teste",
+      "number": "1",
+      "judge": "teste",
+      "clerk": "teste",
+      "phone": "999999999",
+      "email": "teste@teste.com",
+      "id": 8
+    },
+    {
+      "head_office": "teste",
+      "number": "1",
+      "judge": "teste",
+      "clerk": "teste",
+      "phone": "999999999",
+      "email": "teste@teste.com",
+      "id": 9
+    },
+    {
+      "head_office": "teste",
+      "number": "1",
+      "judge": "teste",
+      "clerk": "teste",
+      "phone": "99999999999",
+      "email": "teste@teste.com",
+      "id": 10
+    },
+    {
+      "head_office": "Iguatu",
+      "number": "13",
+      "judge": "Juiz teste",
+      "clerk": "Chefe de cartório teste",
+      "phone": "99999-9999",
+      "email": "iguatu@teste.com",
+      "id": 11
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Pergunta bla bla bla 1?",
+      "answer": "Resposta bla bla bla 1"
+    },
+    {
+      "id": 2,
+      "question": "Pergunta bla bla bla 2?",
+      "answer": "Resposta bla bla bla 2"
+    },
+    {
+      "id": 3,
+      "question": "Pergunta bla bla bla 3?",
+      "answer": "Resposta bla bla bla 3"
+    },
+    {
+      "id": "4",
+      "question": "123?",
+      "answer": "123"
+    },
+    {
+      "id": "7",
+      "question": "XXX",
+      "answer": "YYYY"
+    },
+    {
+      "question": "Teste",
+      "answer": "Teste resposta",
+      "id": "gpGvmBN"
+    },
+    {
+      "question": "1",
+      "answer": "2",
+      "id": "eavHaqO"
+    },
+    {
+      "question": "234",
+      "answer": "234",
+      "id": "H8CrBMW"
+    },
+    {
+      "question": "pergunta teste",
+      "answer": "resposta teste",
+      "id": "IYH_sS0"
+    }
+  ]
+}
